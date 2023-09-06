@@ -1,0 +1,127 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "5709797e3231680a849da40c357c9bb8a3d9e78798d3522d52100d2776811f46"
+build_start_time: [1693894479, 140842000]
+build_end_time: [1693894480, 420403000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/AnyAsyncSequence.swift"
+  : [1693894449, 633172295]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/AnyAsyncSequenceProucerDelete.swift"
+  : [1693894449, 633277504]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/AsyncLazySequence.swift"
+  : [1693894449, 633363796]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClient+execute.swift"
+  : [1693894449, 633459047]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClient+shutdown.swift"
+  : [1693894449, 633724258]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientRequest+Prepared.swift"
+  : [1693894449, 633802008]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientRequest.swift"
+  : [1693894449, 633889343]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientResponse.swift"
+  : [1693894449, 633984760]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/SingleIteratorPrecondition.swift"
+  : [1693894449, 634049511]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/Transaction+StateMachine.swift"
+  : [1693894449, 634195053]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/Transaction.swift"
+  : [1693894449, 634280596]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Base64.swift"
+  : [1693894449, 634364597]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/BestEffortHashableTLSConfiguration.swift"
+  : [1693894449, 634430556]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool.swift"
+  : [1693894449, 634500681]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/HTTP1ProxyConnectHandler.swift"
+  : [1693894449, 634675891]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/SOCKSEventsHandler.swift"
+  : [1693894449, 634758642]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/TLSEventsHandler.swift"
+  : [1693894449, 634829351]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1ClientChannelHandler.swift"
+  : [1693894449, 635008811]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1Connection.swift"
+  : [1693894449, 635132020]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1ConnectionStateMachine.swift"
+  : [1693894449, 635411481]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2ClientRequestHandler.swift"
+  : [1693894449, 635519732]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2Connection.swift"
+  : [1693894449, 635589899]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2IdleHandler.swift"
+  : [1693894449, 635678150]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionEvent.swift"
+  : [1693894449, 635751025]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool+Factory.swift"
+  : [1693894449, 635856359]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool+Manager.swift"
+  : [1693894449, 635944569]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool.swift"
+  : [1693894449, 636058986]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPExecutableRequest.swift"
+  : [1693894449, 636174196]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPRequestStateMachine+Demand.swift"
+  : [1693894449, 636345447]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPRequestStateMachine.swift"
+  : [1693894449, 636426073]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestBodyLength.swift"
+  : [1693894449, 636517740]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestFramingMetadata.swift"
+  : [1693894449, 636608741]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestOptions.swift"
+  : [1693894449, 636682158]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+Backoff.swift"
+  : [1693894449, 636902535]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1Connections.swift"
+  : [1693894449, 637040120]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1StateMachine.swift"
+  : [1693894449, 637286455]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2Connections.swift"
+  : [1693894449, 637510290]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2StateMachine.swift"
+  : [1693894449, 637674958]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+RequestQueue.swift"
+  : [1693894449, 637787251]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+StateMachine.swift"
+  : [1693894449, 637877919]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionTarget.swift"
+  : [1693894449, 637964211]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/DeconstructedURL.swift"
+  : [1693894449, 638032128]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/FileDownloadDelegate.swift"
+  : [1693894449, 638204130]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/FoundationExtensions.swift"
+  : [1693894449, 638274880]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+HTTPCookie.swift"
+  : [1693894449, 638370631]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+Proxy.swift"
+  : [1693894449, 638445382]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient.swift"
+  : [1693894449, 638688634]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPHandler.swift"
+  : [1693894449, 638930719]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/LRUCache.swift"
+  : [1693894449, 639007970]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/NWErrorHandler.swift"
+  : [1693894449, 639131846]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/NWWaitingHandler.swift"
+  : [1693894449, 639251472]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/TLSConfiguration.swift"
+  : [1693894449, 639340556]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RedirectState.swift"
+  : [1693894449, 639424015]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestBag+StateMachine.swift"
+  : [1693894449, 639552808]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestBag.swift"
+  : [1693894449, 639673267]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestValidation.swift"
+  : [1693894449, 639781643]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/SSLContextCache.swift"
+  : [1693894449, 639854394]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Scheme.swift"
+  : [1693894449, 639916894]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/StringConvertibleInstances.swift"
+  : [1693894449, 640006354]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/UnsafeTransfer.swift"
+  : [1693894449, 640072854]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Utils.swift"
+  : [1693894449, 640142938]

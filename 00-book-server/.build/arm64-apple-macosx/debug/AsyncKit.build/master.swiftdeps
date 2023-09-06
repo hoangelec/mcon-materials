@@ -1,0 +1,50 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "ccc4ba6aca744837ae01e8554fe0fb9a0ae50f0ee9ed74dfd9b2ff50d016ada1"
+build_start_time: [1693894473, 313413000]
+build_end_time: [1693894479, 814374000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolError.swift"
+  : [1693894449, 508242758]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolItem.swift"
+  : [1693894449, 508335301]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolSource.swift"
+  : [1693894449, 508403135]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/EventLoopConnectionPool.swift"
+  : [1693894449, 508541344]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/EventLoopGroupConnectionPool.swift"
+  : [1693894449, 508680970]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Concurrency.swift"
+  : [1693894449, 508907347]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Flatten.swift"
+  : [1693894449, 509008307]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Future.swift"
+  : [1693894449, 509075016]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoopGroup+Concurrency.swift"
+  : [1693894449, 509134558]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoopGroup+Throwing.swift"
+  : [1693894449, 509200517]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Collection+Flatten.swift"
+  : [1693894449, 509311059]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/EventLoopFutureQueue+Sequence.swift"
+  : [1693894449, 509399435]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/EventLoopFutureQueue.swift"
+  : [1693894449, 509489477]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Collection.swift"
+  : [1693894449, 509591645]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Conjunctions.swift"
+  : [1693894449, 509732271]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Miscellaneous.swift"
+  : [1693894449, 509815105]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Nonempty.swift"
+  : [1693894449, 509891772]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Optional.swift"
+  : [1693894449, 509963898]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Transform.swift"
+  : [1693894449, 510028315]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Try.swift"
+  : [1693894449, 510104608]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/FutureOperators.swift"
+  : [1693894449, 510185150]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Optional+StrictMap.swift"
+  : [1693894449, 510263817]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/Exports.swift": [1693894449, 510330443]

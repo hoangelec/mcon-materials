@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "f2fcc330376b86f27ea345ef0ba295180cfe287a5cdf1f85c0063e19550ff68b"
+build_start_time: [1693894477, 905721000]
+build_end_time: [1693894478, 515102000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/Concurrency/WebSocket+Concurrency.swift"
+  : [1693894448, 715136872]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/Exports.swift"
+  : [1693894448, 715299540]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/HTTPUpgradeRequestHandler.swift"
+  : [1693894448, 715366833]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket+Connect.swift"
+  : [1693894448, 715617460]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket.swift"
+  : [1693894448, 716085964]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketClient.swift"
+  : [1693894448, 716159131]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketHandler.swift"
+  : [1693894448, 716251632]

@@ -1,0 +1,129 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "aeb85e52451a37b35d0092dfa8c0e4ffd2a570413e2c03cd9719cfa105722e27"
+build_start_time: [1693894477, 419584000]
+build_end_time: [1693894479, 53509000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/ConnectionStateMachine.swift"
+  : [1693894450, 155053547]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/ConnectionStreamsState.swift"
+  : [1693894450, 155188090]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/MayReceiveFrames.swift"
+  : [1693894450, 155337633]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingDataState.swift"
+  : [1693894450, 155430634]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingGoAwayState.swift"
+  : [1693894450, 155510051]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingHeadersState.swift"
+  : [1693894450, 155595344]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingPushPromiseState.swift"
+  : [1693894450, 155678845]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingRstStreamState.swift"
+  : [1693894450, 155748928]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingWindowUpdateState.swift"
+  : [1693894450, 155822679]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/MaySendFrames.swift"
+  : [1693894450, 155921555]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingDataState.swift"
+  : [1693894450, 155994097]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingGoawayState.swift"
+  : [1693894450, 156051931]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingHeadersState.swift"
+  : [1693894450, 156107682]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingPushPromiseState.swift"
+  : [1693894450, 156186515]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingRstStreamState.swift"
+  : [1693894450, 156257766]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingWindowUpdateState.swift"
+  : [1693894450, 156320767]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/HTTP2SettingsState.swift"
+  : [1693894450, 156521185]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/HasFlowControlWindows.swift"
+  : [1693894450, 156606019]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/HasLocalSettings.swift"
+  : [1693894450, 156671895]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/HasRemoteSettings.swift"
+  : [1693894450, 156735645]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/LocallyQuiescingState.swift"
+  : [1693894450, 156840688]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/QuiescingState.swift"
+  : [1693894450, 156906938]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/RemotelyQuiescingState.swift"
+  : [1693894450, 156976981]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/SendAndReceiveGoawayState.swift"
+  : [1693894450, 157046148]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/StateMachineResult.swift"
+  : [1693894450, 157130107]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ContentLengthVerifier.swift"
+  : [1693894450, 157234191]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/DOSHeuristics.swift"
+  : [1693894450, 157314067]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/Frame Buffers/ConcurrentStreamBuffer.swift"
+  : [1693894450, 157636945]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/Frame Buffers/ControlFrameBuffer.swift"
+  : [1693894450, 157736737]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/Frame Buffers/OutboundFlowControlBuffer.swift"
+  : [1693894450, 157857530]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/Frame Buffers/OutboundFrameBuffer.swift"
+  : [1693894450, 157994531]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HPACKHeaders+Validation.swift"
+  : [1693894450, 158145824]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ChannelHandler+InboundStreamMultiplexer.swift"
+  : [1693894450, 158244283]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ChannelHandler+InlineStreamMultiplexer.swift"
+  : [1693894450, 158459368]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ChannelHandler.swift"
+  : [1693894450, 158713245]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2CommonInboundStreamMultiplexer.swift"
+  : [1693894450, 158822413]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ConnectionStateChange.swift"
+  : [1693894450, 158924872]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2Error.swift"
+  : [1693894450, 159116749]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ErrorCode.swift"
+  : [1693894450, 159220875]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2FlowControlWindow.swift"
+  : [1693894450, 159285084]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2Frame.swift"
+  : [1693894450, 159428585]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2FrameEncoder.swift"
+  : [1693894450, 159617920]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2FrameParser.swift"
+  : [1693894450, 159913214]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2PingData.swift"
+  : [1693894450, 160003507]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2PipelineHelpers.swift"
+  : [1693894450, 160148966]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2Settings.swift"
+  : [1693894450, 160247967]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2Stream.swift"
+  : [1693894450, 160341885]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2StreamChannel+OutboundStreamMultiplexer.swift"
+  : [1693894450, 160435219]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2StreamChannel.swift"
+  : [1693894450, 160615845]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2StreamDelegate.swift"
+  : [1693894450, 160720013]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2StreamID.swift"
+  : [1693894450, 160791513]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2StreamMultiplexer.swift"
+  : [1693894450, 160865931]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ToHTTP1Codec.swift"
+  : [1693894450, 161003307]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2UserEvents.swift"
+  : [1693894450, 161108558]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/InboundEventBuffer.swift"
+  : [1693894450, 161193892]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/InboundWindowManager.swift"
+  : [1693894450, 161284601]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/MultiplexerAbstractChannel.swift"
+  : [1693894450, 161369727]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/StreamChannelFlowController.swift"
+  : [1693894450, 161452686]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/StreamChannelList.swift"
+  : [1693894450, 161537645]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/StreamMap.swift"
+  : [1693894450, 161642396]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/StreamStateMachine.swift"
+  : [1693894450, 161877273]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/WatermarkedFlowController.swift"
+  : [1693894450, 161978232]

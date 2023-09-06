@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "6def31bf482381fddf6a80189b7b3e16c703d194f506d0f23387dc4d874e44f9"
+build_start_time: [1693894475, 79002000]
+build_end_time: [1693894477, 291251000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/DynamicHeaderTable.swift"
+  : [1693894450, 153266907]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKDecoder.swift"
+  : [1693894450, 153359741]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKEncoder.swift"
+  : [1693894450, 153485575]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKErrors.swift"
+  : [1693894450, 153582493]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKHeader.swift"
+  : [1693894450, 153742661]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HeaderTables.swift"
+  : [1693894450, 153872662]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanCoding.swift"
+  : [1693894450, 153972996]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanTables.swift"
+  : [1693894450, 154465376]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IndexedHeaderTable.swift"
+  : [1693894450, 154577877]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IntegerCoding.swift"
+  : [1693894450, 154670919]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/StaticHeaderTable.swift"
+  : [1693894450, 154745503]

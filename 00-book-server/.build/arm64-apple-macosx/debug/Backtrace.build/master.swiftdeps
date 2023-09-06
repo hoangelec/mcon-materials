@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "f01c5a760122ad77ef4aa0c9fad91fe3ed06da9ccbf2d45df1873458f968adc4"
+build_start_time: [1693894472, 581303000]
+build_end_time: [1693894472, 702101000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-backtrace/Sources/Backtrace/Backtrace.swift"
+  : [1693894450, 24419837]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-backtrace/Sources/Backtrace/Demangle.swift"
+  : [1693894450, 24493587]

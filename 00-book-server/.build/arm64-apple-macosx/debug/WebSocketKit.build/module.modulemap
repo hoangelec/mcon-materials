@@ -1,0 +1,4 @@
+module WebSocketKit {
+    header "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocketKit-Swift.h"
+    requires objc
+}

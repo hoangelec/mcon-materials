@@ -1,0 +1,45 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "9244510f093dc28ef25767483568b94a0177e0b593eec7b143bc4c3672bb6e8c"
+build_start_time: [1693894475, 71776000]
+build_end_time: [1693894477, 194177000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/BasicCodingKey.swift"
+  : [1693894450, 449322003]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/Deprecated/MultipartError.swift"
+  : [1693894450, 449427004]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/Exports.swift"
+  : [1693894450, 449597923]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.Decoder.swift"
+  : [1693894450, 449714257]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.KeyedContainer.swift"
+  : [1693894450, 449786007]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.SingleValueContainer.swift"
+  : [1693894450, 449851716]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.UnkeyedContainer.swift"
+  : [1693894450, 449930425]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.swift"
+  : [1693894450, 450002926]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.Encoder.swift"
+  : [1693894450, 450139052]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.KeyedContainer.swift"
+  : [1693894450, 450209344]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.SingleValueContainer.swift"
+  : [1693894450, 450271303]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.UnkeyedContainer.swift"
+  : [1693894450, 450335012]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.swift"
+  : [1693894450, 450402346]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/Storage.swift"
+  : [1693894450, 450464055]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartFormData.swift"
+  : [1693894450, 450568764]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartParser.swift"
+  : [1693894450, 450662973]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPart.swift"
+  : [1693894450, 450732766]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPartConvertible.swift"
+  : [1693894450, 450804141]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartSerializer.swift"
+  : [1693894450, 450880392]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/Utilities.swift"
+  : [1693894450, 450944559]

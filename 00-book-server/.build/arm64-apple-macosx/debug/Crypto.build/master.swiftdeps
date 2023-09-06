@@ -1,0 +1,138 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "994c07387813345d6c43fd0ca4afd1bfe47f7b7b89a22555ac63bd299c1369c4"
+build_start_time: [1693894458, 314758000]
+build_end_time: [1693894464, 564393000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/AES/GCM/AES-GCM.swift"
+  : [1693894449, 238660599]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/AES/GCM/BoringSSL/AES-GCM_boring.swift"
+  : [1693894449, 238793725]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/ChachaPoly/BoringSSL/ChaChaPoly_boring.swift"
+  : [1693894449, 238926768]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/ChachaPoly/ChaChaPoly.swift"
+  : [1693894449, 239000768]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/Cipher.swift"
+  : [1693894449, 239069144]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/Nonces.swift"
+  : [1693894449, 239140644]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/ASN1.swift"
+  : [1693894449, 239525273]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Any.swift"
+  : [1693894449, 239639232]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1BitString.swift"
+  : [1693894449, 239748150]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Boolean.swift"
+  : [1693894449, 239811233]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Identifier.swift"
+  : [1693894449, 239888692]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Integer.swift"
+  : [1693894449, 239950276]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Null.swift"
+  : [1693894449, 240009402]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1OctetString.swift"
+  : [1693894449, 240074111]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Strings.swift"
+  : [1693894449, 240141361]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ArraySliceBigint.swift"
+  : [1693894449, 240205362]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/GeneralizedTime.swift"
+  : [1693894449, 240298529]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ObjectIdentifier.swift"
+  : [1693894449, 240399364]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/ECDSASignature.swift"
+  : [1693894449, 240462947]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/PEMDocument.swift"
+  : [1693894449, 240535865]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/PKCS8PrivateKey.swift"
+  : [1693894449, 240619115]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/SEC1PrivateKey.swift"
+  : [1693894449, 240689949]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/SubjectPublicKeyInfo.swift"
+  : [1693894449, 240770075]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/CryptoKitErrors.swift"
+  : [1693894449, 240887034]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Digests/BoringSSL/Digest_boring.swift"
+  : [1693894449, 241042244]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Digests/Digest.swift"
+  : [1693894449, 241112953]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Digests/Digests.swift"
+  : [1693894449, 241183662]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions.swift"
+  : [1693894449, 241322538]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions_SHA2.swift"
+  : [1693894449, 241524331]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Insecure/Insecure.swift"
+  : [1693894449, 241616832]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Insecure/Insecure_HashFunctions.swift"
+  : [1693894449, 241694875]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/BoringSSL/ECDH_boring.swift"
+  : [1693894449, 241836501]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/DH.swift"
+  : [1693894449, 241912252]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/ECDH.swift"
+  : [1693894449, 242016003]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Key Derivation/HKDF.swift"
+  : [1693894449, 242211879]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Key Wrapping/AESWrap.swift"
+  : [1693894449, 242307755]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Key Wrapping/BoringSSL/AESWrap_boring.swift"
+  : [1693894449, 242415089]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/Ed25519_boring.swift"
+  : [1693894449, 242589507]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/EllipticCurvePoint_boring.swift"
+  : [1693894449, 242714925]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/EllipticCurve_boring.swift"
+  : [1693894449, 242797384]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/NISTCurvesKeys_boring.swift"
+  : [1693894449, 242866260]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/X25519Keys_boring.swift"
+  : [1693894449, 242949386]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Curve25519.swift"
+  : [1693894449, 243027178]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Ed25519.swift"
+  : [1693894449, 243106970]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/NISTCurvesKeys.swift"
+  : [1693894449, 243174388]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/X25519Keys.swift"
+  : [1693894449, 243237513]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/Symmetric/SymmetricKeys.swift"
+  : [1693894449, 243359472]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/HMAC/HMAC.swift"
+  : [1693894449, 243524140]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/MACFunctions.swift"
+  : [1693894449, 243587183]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/MessageAuthenticationCode.swift"
+  : [1693894449, 243641100]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/PRF/AES.swift": [1693894449, 243751267]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/ECDSASignature_boring.swift"
+  : [1693894449, 243903477]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/ECDSA_boring.swift"
+  : [1693894449, 243977019]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/EdDSA_boring.swift"
+  : [1693894449, 244043978]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/ECDSA.swift"
+  : [1693894449, 244136312]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/EdDSA.swift"
+  : [1693894449, 244290814]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/Signature.swift"
+  : [1693894449, 244347356]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/ArbitraryPrecisionInteger_boring.swift"
+  : [1693894449, 244506357]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/CryptoKitErrors_boring.swift"
+  : [1693894449, 244573108]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/FiniteFieldArithmeticContext_boring.swift"
+  : [1693894449, 244650025]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/RNG_boring.swift"
+  : [1693894449, 244718859]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/SafeCompare_boring.swift"
+  : [1693894449, 244793527]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/Zeroization_boring.swift"
+  : [1693894449, 244895569]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/PrettyBytes.swift"
+  : [1693894449, 244976653]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/SafeCompare.swift"
+  : [1693894449, 245036362]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/SecureBytes.swift"
+  : [1693894449, 245152696]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/Zeroization.swift"
+  : [1693894449, 245230155]

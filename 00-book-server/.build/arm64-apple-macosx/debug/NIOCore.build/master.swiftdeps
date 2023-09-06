@@ -1,0 +1,121 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "89af4599843b317120f9ded641fc53aeccdf7dede9ac6b04b043fb2dcf29e9a9"
+build_start_time: [1693894465, 26725000]
+build_end_time: [1693894469, 989783000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ActorExecutor.swift"
+  : [1693894450, 733466956]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AddressedEnvelope.swift"
+  : [1693894450, 733668791]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncAwaitSupport.swift"
+  : [1693894450, 733736583]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncChannel/AsyncChannel.swift"
+  : [1693894450, 733893918]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncChannel/AsyncChannelInboundStream.swift"
+  : [1693894450, 734133711]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncChannel/AsyncChannelInboundStreamChannelHandler.swift"
+  : [1693894450, 734258587]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncChannel/AsyncChannelOutboundWriter.swift"
+  : [1693894450, 734365046]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncChannel/AsyncChannelOutboundWriterHandler.swift"
+  : [1693894450, 734484214]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncChannel/CloseRatchet.swift"
+  : [1693894450, 734571340]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncSequences/NIOAsyncSequenceProducer.swift"
+  : [1693894450, 734733925]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncSequences/NIOAsyncSequenceProducerStrategies.swift"
+  : [1693894450, 734826926]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncSequences/NIOAsyncWriter.swift"
+  : [1693894450, 734991052]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncSequences/NIOThrowingAsyncSequenceProducer.swift"
+  : [1693894450, 735288013]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/BSDSocketAPI.swift"
+  : [1693894450, 735454431]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-aux.swift"
+  : [1693894450, 735613391]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-conversions.swift"
+  : [1693894450, 735703933]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-core.swift"
+  : [1693894450, 736081270]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-int.swift"
+  : [1693894450, 736225771]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-lengthPrefix.swift"
+  : [1693894450, 736312522]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-multi-int.swift"
+  : [1693894450, 736471690]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-views.swift"
+  : [1693894450, 736580149]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/Channel.swift": [1693894450, 736703233]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ChannelHandler.swift"
+  : [1693894450, 736834859]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ChannelHandlers.swift"
+  : [1693894450, 736942819]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ChannelInvoker.swift"
+  : [1693894450, 737049903]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ChannelOption.swift"
+  : [1693894450, 737286155]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ChannelPipeline.swift"
+  : [1693894450, 737512532]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/CircularBuffer.swift"
+  : [1693894450, 737663908]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/Codec.swift": [1693894450, 737865119]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ConvenienceOptionSupport.swift"
+  : [1693894450, 738154246]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/DeadChannel.swift"
+  : [1693894450, 738241455]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/DispatchQueue+WithFuture.swift"
+  : [1693894450, 738321539]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/EventLoop+Deprecated.swift"
+  : [1693894450, 738736084]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/EventLoop.swift": [1693894450, 738952128]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/EventLoopFuture+Deprecated.swift"
+  : [1693894450, 739031753]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/EventLoopFuture+WithEventLoop.swift"
+  : [1693894450, 739121879]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/EventLoopFuture.swift"
+  : [1693894450, 739389006]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/FileDescriptor.swift"
+  : [1693894450, 739484466]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/FileHandle.swift": [1693894450, 739580175]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/FileRegion.swift": [1693894450, 739687926]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/GlobalSingletons.swift"
+  : [1693894450, 739788843]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/IO.swift": [1693894450, 739875636]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/IOData.swift": [1693894450, 739958470]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/IPProtocol.swift": [1693894450, 740056137]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/IntegerBitPacking.swift"
+  : [1693894450, 740132346]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/IntegerTypes.swift"
+  : [1693894450, 740350057]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/Interfaces.swift": [1693894450, 740487725]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/Linux.swift": [1693894450, 740602892]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/MarkedCircularBuffer.swift"
+  : [1693894450, 740693768]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/MulticastChannel.swift"
+  : [1693894450, 740780102]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/NIOAny.swift": [1693894450, 740866353]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/NIOCloseOnErrorHandler.swift"
+  : [1693894450, 740983354]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/NIOLoopBound.swift"
+  : [1693894450, 741070271]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/NIOSendable.swift"
+  : [1693894450, 741136647]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/PointerHelpers.swift"
+  : [1693894450, 741207731]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/RecvByteBufferAllocator.swift"
+  : [1693894450, 741309065]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/SingleStepByteToMessageDecoder.swift"
+  : [1693894450, 741426899]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/SocketAddresses.swift"
+  : [1693894450, 741561817]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/SocketOptionProvider.swift"
+  : [1693894450, 741669693]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/SystemCallHelpers.swift"
+  : [1693894450, 741753277]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/TimeAmount+Duration.swift"
+  : [1693894450, 741827319]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/TypeAssistedChannelHandler.swift"
+  : [1693894450, 742018363]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/UniversalBootstrapSupport.swift"
+  : [1693894450, 742124405]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/Utilities.swift": [1693894450, 742230281]

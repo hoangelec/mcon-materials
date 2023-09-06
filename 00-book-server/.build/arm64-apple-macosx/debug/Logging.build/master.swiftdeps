@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "c73e97db309a37b3845c3fe97bf6bebbe77e37ce1931bd3a8d94c10a01ab91b9"
+build_start_time: [1693894458, 103748000]
+build_end_time: [1693894460, 620167000]
+inputs:
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-log/Sources/Logging/Locks.swift": [1693894450, 566430597]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-log/Sources/Logging/LogHandler.swift": [1693894450, 566547265]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-log/Sources/Logging/Logging.swift": [1693894450, 566849351]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-log/Sources/Logging/MetadataProvider.swift"
+  : [1693894450, 566937560]

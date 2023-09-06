@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "d1adfff4889c3c4b15898f77f8a479f87f2d2b421395868aeb861b74d4390e4c"
+build_start_time: [1693894473, 112040000]
+build_end_time: [1693894473, 223014000]
+inputs:
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIO/Exports.swift": [1693894450, 731957817]

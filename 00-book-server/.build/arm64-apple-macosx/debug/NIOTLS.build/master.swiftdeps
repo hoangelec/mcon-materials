@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "b92bb58e5edf20139736ea5d19d7e6f14811ff15311c8d2cde0387ea361fe243"
+build_start_time: [1693894473, 302508000]
+build_end_time: [1693894474, 291979000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift"
+  : [1693894450, 755310352]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOTLS/NIOTypedApplicationProtocolNegotiationHandler.swift"
+  : [1693894450, 755392020]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOTLS/ProtocolNegotiationHandlerStateMachine.swift"
+  : [1693894450, 755462229]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [1693894450, 755584855]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [1693894450, 755654439]

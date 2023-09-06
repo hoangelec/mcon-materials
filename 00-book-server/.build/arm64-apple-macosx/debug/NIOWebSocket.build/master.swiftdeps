@@ -1,0 +1,26 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "6e647a1251dd5e4a35955bf59f29263060465981d8407f815bf531c81a0f07d3"
+build_start_time: [1693894475, 91708000]
+build_end_time: [1693894476, 985046000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/Base64.swift"
+  : [1693894450, 756404320]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketClientUpgrader.swift"
+  : [1693894450, 756529446]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketFrameAggregator.swift"
+  : [1693894450, 756608613]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketServerUpgrader.swift"
+  : [1693894450, 756702489]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/SHA1.swift": [1693894450, 756777115]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketErrorCodes.swift"
+  : [1693894450, 756857532]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrame.swift"
+  : [1693894450, 756927908]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameDecoder.swift"
+  : [1693894450, 757043742]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameEncoder.swift"
+  : [1693894450, 757134035]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketOpcode.swift"
+  : [1693894450, 757214452]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift"
+  : [1693894450, 757281703]

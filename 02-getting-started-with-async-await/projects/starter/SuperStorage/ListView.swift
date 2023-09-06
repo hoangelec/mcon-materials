@@ -88,6 +88,18 @@ struct ListView: View {
       }, message: {
         Text(lastErrorMessage)
       })
+      .task {
+        Task {
+          do {
+            self.files = try await model.availableFiles()
+          } catch {
+            lastErrorMessage = error.localizedDescription
+          }
+          
+        }
+        
+        
+      }
       .navigationDestination(isPresented: $isDisplayingDownload) {
         DownloadView(file: selected).environmentObject(model)
       }

@@ -1,0 +1,4 @@
+module CVaporURLParser {
+    umbrella "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/CVaporURLParser/include"
+    export *
+}

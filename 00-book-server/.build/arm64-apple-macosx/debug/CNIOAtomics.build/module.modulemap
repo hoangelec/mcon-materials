@@ -1,0 +1,4 @@
+module CNIOAtomics {
+    umbrella header "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+    export *
+}

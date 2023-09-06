@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "1fef9e2776d30c1bf88a5a2a400e68ac61415a720e91e43e993fbcbcdc6ae36e"
+build_start_time: [1693894460, 458731000]
+build_end_time: [1693894460, 580326000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/Collections/Collections.swift"
+  : [1693894451, 110901338]

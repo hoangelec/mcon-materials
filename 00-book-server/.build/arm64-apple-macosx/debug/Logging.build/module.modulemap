@@ -1,0 +1,4 @@
+module Logging {
+    header "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/Logging.build/Logging-Swift.h"
+    requires objc
+}

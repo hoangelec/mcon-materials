@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/master.swiftdeps"
+  },
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/Concurrency/WebSocket+Concurrency.swift": {
+    "dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/Concurrency/WebSocket+Concurrency.d",
+    "object": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/Concurrency/WebSocket+Concurrency.swift.o",
+    "swiftmodule": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/Concurrency/WebSocket+Concurrency~partial.swiftmodule",
+    "swift-dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/Concurrency/WebSocket+Concurrency.swiftdeps"
+  },
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/Exports.swift": {
+    "dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/Exports.d",
+    "object": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/Exports.swift.o",
+    "swiftmodule": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/Exports.swiftdeps"
+  },
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/HTTPUpgradeRequestHandler.swift": {
+    "dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/HTTPUpgradeRequestHandler.d",
+    "object": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/HTTPUpgradeRequestHandler.swift.o",
+    "swiftmodule": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/HTTPUpgradeRequestHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/HTTPUpgradeRequestHandler.swiftdeps"
+  },
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket+Connect.swift": {
+    "dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocket+Connect.d",
+    "object": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocket+Connect.swift.o",
+    "swiftmodule": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocket+Connect~partial.swiftmodule",
+    "swift-dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocket+Connect.swiftdeps"
+  },
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket.swift": {
+    "dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocket.d",
+    "object": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocket.swift.o",
+    "swiftmodule": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocket~partial.swiftmodule",
+    "swift-dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocket.swiftdeps"
+  },
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketClient.swift": {
+    "dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocketClient.d",
+    "object": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocketClient.swift.o",
+    "swiftmodule": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocketClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocketClient.swiftdeps"
+  },
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketHandler.swift": {
+    "dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocketHandler.d",
+    "object": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocketHandler.swift.o",
+    "swiftmodule": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocketHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocketHandler.swiftdeps"
+  }
+}

@@ -1,0 +1,101 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "04e570815b1225c1ee53fb2a83128f4c9f0efc7af1a7cf54aec31712639fb778"
+build_start_time: [1693894460, 789789000]
+build_end_time: [1693894464, 375166000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityBar.swift"
+  : [1693894448, 586333969]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityIndicator.swift"
+  : [1693894448, 586440345]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityIndicatorRenderer.swift"
+  : [1693894448, 586502971]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityIndicatorState.swift"
+  : [1693894448, 586563346]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/CustomActivity.swift"
+  : [1693894448, 586635930]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/LoadingBar.swift"
+  : [1693894448, 586702806]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ProgressBar.swift"
+  : [1693894448, 586769973]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Clear/Console+Clear.swift"
+  : [1693894448, 586861182]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Clear/Console+Ephemeral.swift"
+  : [1693894448, 586957391]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Clear/ConsoleClear.swift"
+  : [1693894448, 587016475]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/AnyCommand.swift"
+  : [1693894448, 587115434]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Argument.swift"
+  : [1693894448, 587192185]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Async/AnyAsyncCommand.swift"
+  : [1693894448, 587289978]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Async/AsyncCommand.swift"
+  : [1693894448, 587391770]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Async/AsyncCommandGroup.swift"
+  : [1693894448, 587464479]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Async/AsyncCommands.swift"
+  : [1693894448, 587533271]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Command.swift"
+  : [1693894448, 587619105]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandContext.swift"
+  : [1693894448, 587701648]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandError.swift"
+  : [1693894448, 587767190]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandGroup.swift"
+  : [1693894448, 587845232]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandInput.swift"
+  : [1693894448, 587917775]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandSignature.swift"
+  : [1693894448, 587984025]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Commands.swift"
+  : [1693894448, 588051151]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Completion.swift"
+  : [1693894448, 588167402]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Console+Run.swift"
+  : [1693894448, 588251444]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Flag.swift"
+  : [1693894448, 588326195]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Option.swift"
+  : [1693894448, 588389904]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Utilities.swift"
+  : [1693894448, 588451113]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Console.swift"
+  : [1693894448, 588516113]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Ask.swift"
+  : [1693894448, 588950033]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Choose.swift"
+  : [1693894448, 589016659]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Confirm.swift"
+  : [1693894448, 589078660]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Input.swift"
+  : [1693894448, 589134118]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/Console+Center.swift"
+  : [1693894448, 589240494]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/Console+Output.swift"
+  : [1693894448, 589304912]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/Console+Wait.swift"
+  : [1693894448, 589363579]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleColor.swift"
+  : [1693894448, 589433746]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleStyle.swift"
+  : [1693894448, 589495246]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleText.swift"
+  : [1693894448, 589570914]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleTextFragment.swift"
+  : [1693894448, 589632164]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Terminal/ANSI.swift"
+  : [1693894448, 589743999]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Terminal/Terminal.swift"
+  : [1693894448, 589826749]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Terminal/readpassphrase_linux.swift"
+  : [1693894448, 589909500]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/ConsoleError.swift"
+  : [1693894448, 590003793]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/ConsoleLogger.swift"
+  : [1693894448, 590078210]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/GenerateAsyncAutocompleteCommand.swift"
+  : [1693894448, 590149044]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/GenerateAutocompleteCommand.swift"
+  : [1693894448, 590226878]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/String+LevenshteinDistance.swift"
+  : [1693894448, 590294337]

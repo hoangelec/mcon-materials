@@ -1,0 +1,43 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "4feb825962334cf329b51e1986c1331f6dbc7f403d56dbb203962be6f46fded1"
+build_start_time: [1693894458, 176943000]
+build_end_time: [1693894459, 526136000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Compatibility.swift"
+  : [1693894451, 111221757]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Codable.swift"
+  : [1693894451, 111311216]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Collection.swift"
+  : [1693894451, 111488926]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomDebugStringConvertible.swift"
+  : [1693894451, 111583385]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomReflectable.swift"
+  : [1693894451, 111652302]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomStringConvertible.swift"
+  : [1693894451, 111720636]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Equatable.swift"
+  : [1693894451, 111848512]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+ExpressibleByArrayLiteral.swift"
+  : [1693894451, 111927263]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Extras.swift"
+  : [1693894451, 112015306]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Hashable.swift"
+  : [1693894451, 112099306]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Testing.swift"
+  : [1693894451, 112285058]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque._Storage.swift"
+  : [1693894451, 112370309]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque._UnsafeHandle.swift"
+  : [1693894451, 112499810]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque.swift"
+  : [1693894451, 112593311]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/UnsafeMutableBufferPointer+Utilities.swift"
+  : [1693894451, 112907813]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBuffer.swift"
+  : [1693894451, 112983064]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBufferHeader.swift"
+  : [1693894451, 113054231]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/_DequeSlot.swift"
+  : [1693894451, 113118857]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/_UnsafeWrappedBuffer.swift"
+  : [1693894451, 113195691]

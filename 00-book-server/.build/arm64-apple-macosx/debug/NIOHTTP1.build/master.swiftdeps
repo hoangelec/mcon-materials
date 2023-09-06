@@ -1,0 +1,28 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "fae80f522f86e9757f2f98b7ebcffc5d07afb5bc1e870fdf3654b0a4437480cd"
+build_start_time: [1693894473, 302860000]
+build_end_time: [1693894474, 918016000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/ByteCollectionUtils.swift"
+  : [1693894450, 744242215]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPDecoder.swift"
+  : [1693894450, 745219765]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPEncoder.swift"
+  : [1693894450, 745347266]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPHeaderValidator.swift"
+  : [1693894450, 745426434]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPHeaders+Validation.swift"
+  : [1693894450, 745502726]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPPipelineSetup.swift"
+  : [1693894450, 745598644]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift"
+  : [1693894450, 745749728]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift"
+  : [1693894450, 745825437]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerUpgradeHandler.swift"
+  : [1693894450, 745944480]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypes.swift": [1693894450, 746141107]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPClientUpgradeHandler.swift"
+  : [1693894450, 746394692]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPObjectAggregator.swift"
+  : [1693894450, 746507235]

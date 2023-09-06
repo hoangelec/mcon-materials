@@ -1,0 +1,4 @@
+module NIOExtras {
+    header "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/arm64-apple-macosx/debug/NIOExtras.build/NIOExtras-Swift.h"
+    requires objc
+}

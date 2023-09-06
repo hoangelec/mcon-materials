@@ -1,0 +1,4 @@
+module CBacktrace {
+    umbrella "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-backtrace/Sources/CBacktrace/include"
+    export *
+}

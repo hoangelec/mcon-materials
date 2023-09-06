@@ -1,0 +1,55 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "24f372f7b8bda8b09a916849c5fce1f540c10860498fe9c8403d5df699378d04"
+build_start_time: [1693894460, 242251000]
+build_end_time: [1693894462, 707319000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/AdjacentPairs.swift"
+  : [1693894451, 280640302]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Chain.swift"
+  : [1693894451, 280743803]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Chunked.swift"
+  : [1693894451, 280893930]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Combinations.swift"
+  : [1693894451, 280997847]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Compacted.swift"
+  : [1693894451, 281080973]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Cycle.swift"
+  : [1693894451, 281166682]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/EitherSequence.swift"
+  : [1693894451, 281287600]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/FirstNonNil.swift"
+  : [1693894451, 281358475]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/FlattenCollection.swift"
+  : [1693894451, 281442518]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Indexed.swift"
+  : [1693894451, 281519227]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Intersperse.swift"
+  : [1693894451, 281626644]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Joined.swift"
+  : [1693894451, 281734020]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/MinMax.swift"
+  : [1693894451, 281853355]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Partition.swift"
+  : [1693894451, 281970814]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Permutations.swift"
+  : [1693894451, 282090815]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Product.swift"
+  : [1693894451, 282203441]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/RandomSample.swift"
+  : [1693894451, 282284025]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Reductions.swift"
+  : [1693894451, 282444359]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Rotate.swift"
+  : [1693894451, 282535694]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Split.swift"
+  : [1693894451, 282645278]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Stride.swift"
+  : [1693894451, 282737945]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Suffix.swift"
+  : [1693894451, 282805154]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Trim.swift"
+  : [1693894451, 282883905]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Unique.swift"
+  : [1693894451, 282959239]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Windows.swift"
+  : [1693894451, 283057948]

@@ -1,0 +1,105 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "9ee534edaaf0052589a70d1be8db1a28781c8af038b6f8d920b02c7c8566fa82"
+build_start_time: [1693894457, 948114000]
+build_end_time: [1693894460, 287218000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Bucket.swift"
+  : [1693894451, 113433860]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+BucketIterator.swift"
+  : [1693894451, 113532277]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Constants.swift"
+  : [1693894451, 113607611]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+CustomStringConvertible.swift"
+  : [1693894451, 113701820]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Testing.swift"
+  : [1693894451, 113769154]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+UnsafeHandle.swift"
+  : [1693894451, 113883572]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable.swift"
+  : [1693894451, 113978281]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_Hashtable+Header.swift"
+  : [1693894451, 114071615]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Codable.swift"
+  : [1693894451, 114697662]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+CustomDebugStringConvertible.swift"
+  : [1693894451, 114761829]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+CustomReflectable.swift"
+  : [1693894451, 114823080]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+CustomStringConvertible.swift"
+  : [1693894451, 114886039]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Deprecations.swift"
+  : [1693894451, 115040873]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Elements+SubSequence.swift"
+  : [1693894451, 115124374]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Elements.swift"
+  : [1693894451, 115215041]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Equatable.swift"
+  : [1693894451, 115286375]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+ExpressibleByDictionaryLiteral.swift"
+  : [1693894451, 115355126]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Hashable.swift"
+  : [1693894451, 115420085]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Initializers.swift"
+  : [1693894451, 115529169]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Invariants.swift"
+  : [1693894451, 115616378]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial MutableCollection.swift"
+  : [1693894451, 115751796]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial RangeReplaceableCollection.swift"
+  : [1693894451, 115839964]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Sequence.swift"
+  : [1693894451, 115920506]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Values.swift"
+  : [1693894451, 116027882]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary.swift"
+  : [1693894451, 116235550]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Codable.swift"
+  : [1693894451, 116374176]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+CustomDebugStringConvertible.swift"
+  : [1693894451, 116446719]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+CustomReflectable.swift"
+  : [1693894451, 116520636]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+CustomStringConvertible.swift"
+  : [1693894451, 116590928]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Diffing.swift"
+  : [1693894451, 116674221]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Equatable.swift"
+  : [1693894451, 116748096]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+ExpressibleByArrayLiteral.swift"
+  : [1693894451, 116816764]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Hashable.swift"
+  : [1693894451, 116888848]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Initializers.swift"
+  : [1693894451, 116976598]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Insertions.swift"
+  : [1693894451, 117073974]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Invariants.swift"
+  : [1693894451, 117145100]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial MutableCollection.swift"
+  : [1693894451, 117229351]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial RangeReplaceableCollection.swift"
+  : [1693894451, 117332726]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Basics.swift"
+  : [1693894451, 117471228]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Operations.swift"
+  : [1693894451, 117566520]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Predicates.swift"
+  : [1693894451, 117673521]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+RandomAccessCollection.swift"
+  : [1693894451, 117789564]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+ReserveCapacity.swift"
+  : [1693894451, 117865273]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+SubSequence.swift"
+  : [1693894451, 117963274]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Testing.swift"
+  : [1693894451, 118049483]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+UnorderedView.swift"
+  : [1693894451, 118133650]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+UnstableInternals.swift"
+  : [1693894451, 118213276]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet.swift"
+  : [1693894451, 118372652]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/Utilities/RandomAccessCollection+Offsets.swift"
+  : [1693894451, 118504695]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/OrderedCollections/Utilities/_UnsafeBitset.swift"
+  : [1693894451, 118601696]

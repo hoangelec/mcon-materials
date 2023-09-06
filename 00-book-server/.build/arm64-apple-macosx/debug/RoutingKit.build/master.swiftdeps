@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "bf48904faaedf7678087755d0186debed67eeda2fedf7091dc5321453a4574d9"
+build_start_time: [1693894460, 770348000]
+build_end_time: [1693894464, 67699000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/routing-kit/Sources/RoutingKit/AnyRouter.swift"
+  : [1693894449, 783447007]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/routing-kit/Sources/RoutingKit/Parameters.swift"
+  : [1693894449, 783625342]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/routing-kit/Sources/RoutingKit/PathComponent.swift"
+  : [1693894449, 783695134]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/routing-kit/Sources/RoutingKit/Router.swift"
+  : [1693894449, 783868927]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/routing-kit/Sources/RoutingKit/TrieRouter.swift"
+  : [1693894449, 783957053]

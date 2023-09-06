@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "d9bb2bf009003df426f50cfda505c67606d90c6775f58baea654a1335e9ebc68"
+build_start_time: [1693894464, 219046000]
+build_end_time: [1693894464, 762497000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOAtomic.swift"
+  : [1693894450, 732921201]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOLock.swift"
+  : [1693894450, 733025118]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOLockedValueBox.swift"
+  : [1693894450, 733100952]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift"
+  : [1693894450, 733241579]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift"
+  : [1693894450, 733347579]

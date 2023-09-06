@@ -1,0 +1,41 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "457d99edb3d0c10dfb0974569352b95a39d6e99fa461cebeaa170d49cedd893f"
+build_start_time: [1693894475, 72679000]
+build_end_time: [1693894477, 800355000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/DebugInboundEventsHandler.swift"
+  : [1693894448, 438132899]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/DebugOutboundEventsHandler.swift"
+  : [1693894448, 438202858]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/FixedLengthFrameDecoder.swift"
+  : [1693894448, 438410234]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/HTTP1ProxyConnectHandler.swift"
+  : [1693894448, 438500318]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/JSONRPCFraming+ContentLengthHeader.swift"
+  : [1693894448, 438636611]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/JSONRPCFraming.swift"
+  : [1693894448, 438693737]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LengthFieldBasedFrameDecoder.swift"
+  : [1693894448, 438778196]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LengthFieldPrepender.swift"
+  : [1693894448, 438857738]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LineBasedFrameDecoder.swift"
+  : [1693894448, 438935864]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/MarkedCircularBuffer+PopFirstCheckMarked.swift"
+  : [1693894448, 439033365]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/NIOExtrasError.swift"
+  : [1693894448, 439094074]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/NIOLengthFieldBitLength.swift"
+  : [1693894448, 439161199]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/NIORequestIdentifiable.swift"
+  : [1693894448, 439223325]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/PCAPRingBuffer.swift"
+  : [1693894448, 439302200]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/QuiescingHelper.swift"
+  : [1693894448, 439417951]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/RequestResponseHandler.swift"
+  : [1693894448, 439497202]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/RequestResponseWithIDHandler.swift"
+  : [1693894448, 439570328]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/WritePCAPHandler.swift"
+  : [1693894448, 439748746]

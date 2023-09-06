@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "f2e9e39d8fd7aa0d9e5d7bd04ec0e04c9ce246904caf1a71efb7eeca8ee0773c"
+build_start_time: [1693894473, 301264000]
+build_end_time: [1693894474, 315519000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Channel Handlers/SOCKSClientHandler.swift"
+  : [1693894448, 443623029]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Channel Handlers/SOCKSServerHandshakeHandler.swift"
+  : [1693894448, 443701905]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/AuthenticationMethod.swift"
+  : [1693894448, 443917574]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/ClientGreeting.swift"
+  : [1693894448, 443983407]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Errors.swift"
+  : [1693894448, 444047866]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Helpers.swift"
+  : [1693894448, 444120367]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Messages.swift"
+  : [1693894448, 444185826]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SOCKSRequest.swift"
+  : [1693894448, 444244118]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SOCKSResponse.swift"
+  : [1693894448, 444301494]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SelectedAuthenticationMethod.swift"
+  : [1693894448, 444358827]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/State/ClientStateMachine.swift"
+  : [1693894448, 444481287]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/State/ServerStateMachine.swift"
+  : [1693894448, 444542412]

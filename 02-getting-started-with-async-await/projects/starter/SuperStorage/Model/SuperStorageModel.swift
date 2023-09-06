@@ -58,6 +58,24 @@ class SuperStorageModel: ObservableObject {
     await addDownload(name: name)
     return Data()
   }
+  
+  func availableFiles() async throws -> [DownloadFile] {
+    guard let url = URL(string: "http://localhost:8080/files/list") else {
+      throw "Could not create the URL."
+    }
+    let (data, response) = try await URLSession.shared.data(from: url)
+    
+    guard (response as? HTTPURLResponse)?.statusCode == 200 else {
+      throw "The server responded with an error."
+    }
+
+    guard let list = try? JSONDecoder()
+      .decode([DownloadFile].self, from: data) else {
+      throw "The server response was not recognized."
+    }
+    
+    return list
+  }
 
   /// Downloads a file using multiple concurrent connections, returns the final content, and updates the download progress.
   func multiDownloadWithProgress(file: DownloadFile) async throws -> Data {

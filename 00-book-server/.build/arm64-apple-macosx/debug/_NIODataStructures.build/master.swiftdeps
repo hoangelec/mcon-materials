@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "c5ad234e6896e838d3411d6ddbb3395f95d06cf60d517714f6a8f73f9f7f4ff5"
+build_start_time: [1693894457, 819910000]
+build_end_time: [1693894460, 113678000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/_NIODataStructures/Heap.swift"
+  : [1693894450, 757878124]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/_NIODataStructures/PriorityQueue.swift"
+  : [1693894450, 757968834]

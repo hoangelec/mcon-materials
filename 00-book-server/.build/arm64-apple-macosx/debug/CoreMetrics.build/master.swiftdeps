@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "83784e9269beb634afd6d1f0877077e0254b073961eeff129b4b544f581f7850"
+build_start_time: [1693894459, 521527000]
+build_end_time: [1693894460, 571061000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-metrics/Sources/CoreMetrics/Locks.swift"
+  : [1693894448, 834820822]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-metrics/Sources/CoreMetrics/Metrics.swift"
+  : [1693894448, 835060366]

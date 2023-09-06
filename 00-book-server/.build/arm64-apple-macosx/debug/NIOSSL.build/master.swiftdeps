@@ -1,0 +1,60 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "7bf1926de075b59702c5f8fe54c6c37a87ef5bc65c60485f5581904be52b8555"
+build_start_time: [1693894474, 423340000]
+build_end_time: [1693894477, 794732000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/ByteBufferBIO.swift"
+  : [1693894451, 496149079]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/CustomPrivateKey.swift"
+  : [1693894451, 496252830]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/IdentityVerification.swift"
+  : [1693894451, 496437748]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/LinuxCABundle.swift"
+  : [1693894451, 496507499]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLClientHandler.swift"
+  : [1693894451, 496587249]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLHandler.swift"
+  : [1693894451, 496799376]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLServerHandler.swift"
+  : [1693894451, 496869710]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/ObjectIdentifier.swift"
+  : [1693894451, 496949752]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/PosixPort.swift"
+  : [1693894451, 497021253]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCallbacks.swift"
+  : [1693894451, 497217255]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCertificate.swift"
+  : [1693894451, 497332131]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCertificateExtensions.swift"
+  : [1693894451, 497424090]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLConnection.swift"
+  : [1693894451, 497564174]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLContext.swift"
+  : [1693894451, 497745551]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLErrors.swift"
+  : [1693894451, 497944428]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLInit.swift": [1693894451, 498027095]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPKCS12Bundle.swift"
+  : [1693894451, 498115429]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPrivateKey.swift"
+  : [1693894451, 498227722]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPublicKey.swift"
+  : [1693894451, 498308389]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SecurityFrameworkCertificateVerification.swift"
+  : [1693894451, 498381806]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/String+unsafeUninitializedCapacity.swift"
+  : [1693894451, 498492891]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SubjectAlternativeName.swift"
+  : [1693894451, 498571016]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SwiftCrypto/NIOSSLSecureBytes.swift"
+  : [1693894451, 498737934]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SwiftCrypto/RNG.swift"
+  : [1693894451, 498808685]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SwiftCrypto/SafeCompare.swift"
+  : [1693894451, 498878061]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SwiftCrypto/Zeroization.swift"
+  : [1693894451, 498938561]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/TLSConfiguration.swift"
+  : [1693894451, 499085146]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/UniversalBootstrapSupport.swift"
+  : [1693894451, 499175313]

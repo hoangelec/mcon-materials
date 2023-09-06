@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "2618f0574105cd4bbd6c88ee02c955fd90daac878e71554b0eaa5c5549b1beed"
+build_start_time: [1693894475, 72679000]
+build_end_time: [1693894477, 20430000]
+inputs:
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPCompression.swift"
+  : [1693894448, 440811838]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPDecompression.swift"
+  : [1693894448, 440899881]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPRequestCompressor.swift"
+  : [1693894448, 440989882]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPRequestDecompressor.swift"
+  : [1693894448, 441090049]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPResponseCompressor.swift"
+  : [1693894448, 441190092]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPResponseDecompressor.swift"
+  : [1693894448, 441266592]

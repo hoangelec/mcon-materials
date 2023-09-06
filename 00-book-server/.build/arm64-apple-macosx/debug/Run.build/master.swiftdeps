@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "46c34548cf842126ebc21ed437c7962736b2c777aa5ce51f7023fd55ee6ad8bd"
+build_start_time: [1693894485, 739495000]
+build_end_time: [1693894485, 977828000]
+inputs:
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/Sources/Run/main.swift": [1693894243, 590870333]

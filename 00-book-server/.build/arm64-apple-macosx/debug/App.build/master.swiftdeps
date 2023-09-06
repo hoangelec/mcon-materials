@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "04a3b98776b973dc7122e5501bfd037339519eccd45b89f3b82d35243ecc350c"
+build_start_time: [1693894483, 398496000]
+build_end_time: [1693894485, 667838000]
+inputs:
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/Sources/App/Routes/Blabber.swift": [1693894243, 589441070]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/Sources/App/Routes/Clipper.swift": [1693894243, 589636072]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/Sources/App/Routes/EasterEgg.swift": [1693894243, 589825615]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/Sources/App/Routes/Gallery.swift": [1693894243, 589942325]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/Sources/App/Routes/Hello.swift": [1693894243, 590069701]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/Sources/App/Routes/LittleJohn.swift": [1693894243, 590203785]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/Sources/App/Routes/SuperStorage.swift": [1693894243, 590374620]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/Sources/App/configure.swift": [1693894243, 590548538]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/Sources/App/routes.swift": [1693894243, 590688956]

@@ -1,0 +1,389 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "7ae6ec3a6dd9fb50a357a900886e024f30d23131917776f74684682fe0a4aca6"
+build_start_time: [1693894480, 521222000]
+build_end_time: [1693894483, 263959000]
+inputs:
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Application.swift": [1693894448, 982115676]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Authentication/AuthenticationCache.swift"
+  : [1693894448, 982232761]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Authentication/Authenticator.swift"
+  : [1693894448, 982319803]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Authentication/BasicAuthorization.swift"
+  : [1693894448, 982393137]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Authentication/BearerAuthorization.swift"
+  : [1693894448, 982454846]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Authentication/GuardMiddleware.swift"
+  : [1693894448, 982523055]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Authentication/RedirectMiddleware.swift"
+  : [1693894448, 982597806]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Authentication/SessionAuthenticatable.swift"
+  : [1693894448, 982677223]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Bcrypt/Bcrypt.swift": [1693894448, 982798140]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Cache/Application+Cache.swift"
+  : [1693894448, 982900350]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Cache/Cache.swift": [1693894448, 982967975]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Cache/CacheExpirationTime.swift"
+  : [1693894448, 983029851]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Cache/MemoryCache.swift"
+  : [1693894448, 983104268]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Cache/Request+Cache.swift"
+  : [1693894448, 983161727]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Client/Application+Clients.swift"
+  : [1693894448, 983263020]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Client/Client.swift": [1693894448, 983328937]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Client/ClientRequest.swift"
+  : [1693894448, 983392979]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Client/ClientResponse.swift"
+  : [1693894448, 983469230]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Client/Request+Client.swift"
+  : [1693894448, 983524939]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Commands/BootCommand.swift"
+  : [1693894448, 983627023]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Commands/CommandContext+Application.swift"
+  : [1693894448, 983694648]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Commands/RoutesCommand.swift"
+  : [1693894448, 983783274]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Commands/ServeCommand.swift"
+  : [1693894448, 983853441]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/AnyResponse+Concurrency.swift"
+  : [1693894448, 983948776]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/AsyncBasicResponder.swift"
+  : [1693894448, 984020984]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/AsyncMiddleware.swift"
+  : [1693894448, 984100777]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/AsyncPasswordHasher+Concurrency.swift"
+  : [1693894448, 984159569]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/AsyncSessionDriver.swift"
+  : [1693894448, 984219028]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/Authentication+Concurrency.swift"
+  : [1693894448, 984285612]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/Cache+Concurrency.swift"
+  : [1693894448, 984348487]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/Client+Concurrency.swift"
+  : [1693894448, 984416113]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/FileIO+Concurrency.swift"
+  : [1693894448, 984483697]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/Responder+Concurrency.swift"
+  : [1693894448, 984554906]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/ResponseCodable+Concurrency.swift"
+  : [1693894448, 984622656]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/RoutesBuilder+Concurrency.swift"
+  : [1693894448, 984683240]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/ViewRenderer+Concurrency.swift"
+  : [1693894448, 984743116]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/WebSocket+Concurrency.swift"
+  : [1693894448, 984813200]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/Content.swift": [1693894448, 984920701]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/ContentCoders.swift"
+  : [1693894448, 984985868]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/ContentConfiguration.swift"
+  : [1693894448, 985058077]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/ContentContainer.swift"
+  : [1693894448, 985151869]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/JSONCoder+Custom.swift"
+  : [1693894448, 985227036]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/JSONCoders+Content.swift"
+  : [1693894448, 985291287]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/PlaintextDecoder.swift"
+  : [1693894448, 985362496]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/PlaintextEncoder.swift"
+  : [1693894448, 985447955]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/SingleValueDecoder.swift"
+  : [1693894448, 985526414]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/URLQueryCoders.swift"
+  : [1693894448, 985589123]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/URLQueryContainer.swift"
+  : [1693894448, 985686124]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Core/Core.swift": [1693894448, 985794083]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Core/Running.swift": [1693894448, 985878125]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Deprecations/CORSMiddleware+AllowOriginSetting.swift"
+  : [1693894448, 985984043]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Deprecations/CORSMiddleware+Configuration+exposedHeaders.swift"
+  : [1693894448, 986065710]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Deprecations/DotEnvFile+load.swift"
+  : [1693894448, 986169711]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Deprecations/Routes+caseInsenstive.swift"
+  : [1693894448, 986234004]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Deprecations/Validatable+validate.swift"
+  : [1693894448, 986299087]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Environment/Environment+Process.swift"
+  : [1693894448, 986405505]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Environment/Environment+Secret.swift"
+  : [1693894448, 986477089]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Environment/Environment.swift"
+  : [1693894448, 986561756]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Error/Abort.swift": [1693894448, 986681091]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Error/AbortError.swift": [1693894448, 986764133]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Error/DebuggableError.swift"
+  : [1693894448, 986851134]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Error/Demangler.swift": [1693894448, 986912843]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Error/ErrorSource.swift"
+  : [1693894448, 986980010]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Error/StackTrace.swift": [1693894448, 987066177]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Exports.swift": [1693894448, 987132845]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Application+HTTP.swift"
+  : [1693894448, 987235262]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/BasicResponder.swift"
+  : [1693894448, 987306513]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/BodyStream.swift": [1693894448, 987396889]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Client/Application+HTTP+Client.swift"
+  : [1693894448, 987514973]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Client/EventLoopHTTPClient.swift"
+  : [1693894448, 987587015]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/EndpointCache.swift"
+  : [1693894448, 987671391]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/HTTPMethod+String.swift"
+  : [1693894448, 987737183]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/HTTPStatus.swift": [1693894448, 987802600]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPCookies.swift"
+  : [1693894448, 987946018]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaderCacheControl.swift"
+  : [1693894448, 988051269]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaderExpires.swift"
+  : [1693894448, 988118062]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaderLastModified.swift"
+  : [1693894448, 988185520]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Cache.swift"
+  : [1693894448, 988251104]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Connection.swift"
+  : [1693894448, 988311855]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+ContentDisposition.swift"
+  : [1693894448, 988380647]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+ContentRange.swift"
+  : [1693894448, 988463814]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Directive.swift"
+  : [1693894448, 988574190]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Forwarded.swift"
+  : [1693894448, 988642816]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Link.swift"
+  : [1693894448, 988717442]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Name.swift"
+  : [1693894448, 988837401]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders.swift"
+  : [1693894448, 988916110]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPMediaType.swift"
+  : [1693894448, 989097862]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPMediaTypePreference.swift"
+  : [1693894448, 989187862]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Responder.swift": [1693894448, 989247363]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/Application+HTTP+Server.swift"
+  : [1693894448, 989366447]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServer.swift"
+  : [1693894448, 989525157]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServerHandler.swift"
+  : [1693894448, 989622449]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServerRequestDecoder.swift"
+  : [1693894448, 989724909]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServerResponseEncoder.swift"
+  : [1693894448, 989815368]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServerUpgradeHandler.swift"
+  : [1693894448, 989902660]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Logging/Logger+Report.swift"
+  : [1693894448, 990016370]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Logging/LoggingSystem+Environment.swift"
+  : [1693894448, 990093245]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Middleware/Application+Middleware.swift"
+  : [1693894448, 990199413]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Middleware/CORSMiddleware.swift"
+  : [1693894448, 990291038]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Middleware/ErrorMiddleware.swift"
+  : [1693894448, 990376831]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Middleware/FileMiddleware.swift"
+  : [1693894448, 990452915]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Middleware/Middleware.swift"
+  : [1693894448, 990514874]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Middleware/MiddlewareConfiguration.swift"
+  : [1693894448, 990581333]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Middleware/RouteLoggingMiddleware.swift"
+  : [1693894448, 990646333]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Multipart/File+Multipart.swift"
+  : [1693894448, 990753834]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Multipart/FormDataDecoder+Content.swift"
+  : [1693894448, 990819002]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Multipart/FormDataEncoder+Content.swift"
+  : [1693894448, 990883960]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Passwords/Application+Password.swift"
+  : [1693894448, 990991378]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Passwords/Application+Passwords.swift"
+  : [1693894448, 991060462]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Passwords/AsyncPasswordHasher.swift"
+  : [1693894448, 991131504]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Passwords/BcryptHasher.swift"
+  : [1693894448, 991196421]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Passwords/PasswordHasher.swift"
+  : [1693894448, 991262380]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Passwords/PlaintextHasher.swift"
+  : [1693894448, 991329881]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Passwords/Request+Password.swift"
+  : [1693894448, 991389673]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Request/Redirect.swift": [1693894448, 991497924]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Request/Request+Body.swift"
+  : [1693894448, 991577758]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Request/Request+BodyStream.swift"
+  : [1693894448, 991649467]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Request/Request.swift": [1693894448, 991748384]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Responder/Application+Responder.swift"
+  : [1693894448, 991862052]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Responder/DefaultResponder.swift"
+  : [1693894448, 991959761]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Response/Response+Body.swift"
+  : [1693894448, 992094554]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Response/Response.swift"
+  : [1693894448, 992192138]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Response/ResponseCodable.swift"
+  : [1693894448, 992278014]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/Application+Routes.swift"
+  : [1693894448, 992378015]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/Parameters+Require.swift"
+  : [1693894448, 992447390]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/Request+WebSocket.swift"
+  : [1693894448, 992515849]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/Route.swift": [1693894448, 992585725]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/RouteCollection.swift"
+  : [1693894448, 992649309]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/Routes.swift": [1693894448, 992717935]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder+Group.swift"
+  : [1693894448, 992788519]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder+Method.swift"
+  : [1693894448, 992858852]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder+Middleware.swift"
+  : [1693894448, 992934853]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder+WebSocket.swift"
+  : [1693894448, 992998062]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder.swift"
+  : [1693894448, 993062563]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Security/OTP.swift": [1693894448, 993189064]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Server/Application+Servers.swift"
+  : [1693894448, 993290231]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Server/Server.swift": [1693894448, 993362065]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/Application+Sessions.swift"
+  : [1693894448, 993468191]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/MemorySessions.swift"
+  : [1693894448, 993545067]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/Request+Session.swift"
+  : [1693894448, 993618984]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/Session.swift": [1693894448, 993700151]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionCache.swift"
+  : [1693894448, 993765277]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionData.swift"
+  : [1693894448, 993830902]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionDriver.swift"
+  : [1693894448, 993890861]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionsConfiguration.swift"
+  : [1693894448, 993956404]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionsMiddleware.swift"
+  : [1693894448, 994045446]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/DateFormatter+threadSpecific.swift"
+  : [1693894448, 994157114]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormData.swift"
+  : [1693894448, 994238323]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormDecoder.swift"
+  : [1693894448, 994382199]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormEncoder.swift"
+  : [1693894448, 994491783]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormError.swift"
+  : [1693894448, 994564950]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormParser.swift"
+  : [1693894448, 994643076]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormSerializer.swift"
+  : [1693894448, 994712243]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLQueryFragmentConvertible.swift"
+  : [1693894448, 994778744]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/AnyResponse.swift"
+  : [1693894448, 994890703]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Array+Random.swift"
+  : [1693894448, 994959412]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Base32.swift": [1693894448, 995062330]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Base64.swift": [1693894448, 995120622]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/BaseN.swift": [1693894448, 995206456]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/BasicCodingKey.swift"
+  : [1693894448, 995281623]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/ByteCount.swift"
+  : [1693894448, 995349124]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Bytes+Hex.swift"
+  : [1693894448, 995409083]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Bytes+SecureCompare.swift"
+  : [1693894448, 995472416]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Collection+Safe.swift"
+  : [1693894448, 995529125]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/DataProtocol+Copy.swift"
+  : [1693894448, 995584209]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/DecoderUnwrapper.swift"
+  : [1693894448, 995637043]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/DirectoryConfiguration.swift"
+  : [1693894448, 995703294]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/DotEnv.swift": [1693894448, 995765711]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Extendable.swift"
+  : [1693894448, 995833628]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/File.swift": [1693894448, 995900170]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/FileIO.swift": [1693894448, 995991713]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/LifecycleHandler.swift"
+  : [1693894448, 996053088]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/OptionalType.swift"
+  : [1693894448, 996126214]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/RFC1123.swift"
+  : [1693894448, 996207131]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/SocketAddress+Hostname.swift"
+  : [1693894448, 996273215]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Storage.swift"
+  : [1693894448, 996350133]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/String+IsIPAddress.swift"
+  : [1693894448, 996413258]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Thread.swift": [1693894448, 996483717]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/URI.swift": [1693894448, 996572301]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/RangeResult.swift"
+  : [1693894448, 996701302]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validatable.swift"
+  : [1693894448, 996770344]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validation.swift"
+  : [1693894448, 996849887]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/ValidationKey.swift"
+  : [1693894448, 996923137]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validations.swift"
+  : [1693894448, 996999346]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/ValidationsError.swift"
+  : [1693894448, 997067722]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validator.swift"
+  : [1693894448, 997125806]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/ValidatorResult.swift"
+  : [1693894448, 997192056]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/And.swift"
+  : [1693894448, 997299599]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Case.swift"
+  : [1693894448, 997375308]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/CharacterSet.swift"
+  : [1693894448, 997463517]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Count.swift"
+  : [1693894448, 997540976]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Email.swift"
+  : [1693894448, 997615185]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Empty.swift"
+  : [1693894448, 997676769]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/In.swift"
+  : [1693894448, 997752561]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Nil.swift"
+  : [1693894448, 997823312]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/NilIgnoring.swift"
+  : [1693894448, 997893187]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Not.swift"
+  : [1693894448, 997956605]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Or.swift"
+  : [1693894448, 998022563]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Pattern.swift"
+  : [1693894448, 998090439]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Range.swift"
+  : [1693894448, 998161815]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/URL.swift"
+  : [1693894448, 998228982]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Valid.swift"
+  : [1693894448, 998296524]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/View/Application+Views.swift"
+  : [1693894448, 998400400]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/View/PlaintextRenderer.swift"
+  : [1693894448, 998484567]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/View/Request+View.swift"
+  : [1693894448, 998551735]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/View/View.swift": [1693894448, 998619819]
+  ? "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/View/ViewRenderer.swift"
+  : [1693894448, 998687569]
+  "/Users/hoangcap/Desktop/Projects/Study/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/_Deprecations.swift": [1693894448, 998754820]

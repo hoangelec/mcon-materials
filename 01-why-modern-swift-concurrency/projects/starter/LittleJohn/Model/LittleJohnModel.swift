@@ -35,6 +35,10 @@ import Foundation
 /// Easily throw generic errors with a text description.
 extension String: Error { }
 
+protocol LittleJohnModelProtocol: ObservableObject {
+  var tickerSymbols: [Stock] { get }
+}
+
 /// The app model that communicates with the server.
 class LittleJohnModel: ObservableObject {
   /// Current live updates.
@@ -45,6 +49,24 @@ class LittleJohnModel: ObservableObject {
     guard let url = URL(string: "http://localhost:8080/littlejohn/ticker?\(selectedSymbols.joined(separator: ","))") else {
       throw "The URL could not be created."
     }
+    
+    let (stream, response) = try await liveURLSession.bytes(from: url)
+    
+    guard (response as? HTTPURLResponse)?.statusCode == 200 else {
+      throw "The server responded with an error."
+    }
+    
+    for try await line in stream.lines {
+      print("line: \(line)")
+      let sortedSymbols = try JSONDecoder()
+        .decode([Stock].self, from: Data(line.utf8))
+        .sorted(by: { $0.name < $1.name })
+      await MainActor.run {
+        self.tickerSymbols = sortedSymbols
+      }
+    }
+    
+    tickerSymbols = []
   }
 
   /// A URL session that lets requests run indefinitely so we can receive live updates from server.
@@ -53,4 +75,20 @@ class LittleJohnModel: ObservableObject {
     configuration.timeoutIntervalForRequest = .infinity
     return URLSession(configuration: configuration)
   }()
+  
+  
+  func availableSymbols() async throws -> [String] {
+    guard let url = URL(string: "http://localhost:8080/littlejohn/symbols")
+    else {
+      throw "The URL could not be created."
+    }
+    
+    let (data,res) = try await URLSession.shared.data(from: url)
+    
+    guard (res as? HTTPURLResponse)?.statusCode == 200 else {
+      throw "The server responded with an error."
+    }
+
+    return try JSONDecoder().decode([String].self, from: data)
+  }
 }
