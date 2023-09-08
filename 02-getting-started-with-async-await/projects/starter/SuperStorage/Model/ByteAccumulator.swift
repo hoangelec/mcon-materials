@@ -33,12 +33,12 @@
 import Foundation
 
 /// Type that accumulates incoming data into an array of bytes.
-struct ByteAccumulator: CustomStringConvertible {
-  private var offset = 0
-  private var counter = -1
+struct ByteAccumulator: CustomStringConvertible, @unchecked Sendable {
+  var offset = 0
+  var counter = -1
   private let name: String
   private let size: Int
-  private let chunkCount: Int
+  let chunkCount: Int
   private var bytes: [UInt8]
   var data: Data { return Data(bytes[0..<offset]) }
 

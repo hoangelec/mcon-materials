@@ -37,6 +37,11 @@ struct SuperStorageApp: App {
   var body: some Scene {
     WindowGroup {
       ListView(model: SuperStorageModel())
+      
     }
   }
+}
+
+class X {
+  @TaskLocal static var local: Int?
 }

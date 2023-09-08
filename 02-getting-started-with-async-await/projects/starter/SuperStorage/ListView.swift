@@ -90,15 +90,21 @@ struct ListView: View {
       })
       .task {
         Task {
+          guard files.isEmpty else { return }
+          
           do {
-            self.files = try await model.availableFiles()
+            async let files = try model.availableFiles()
+            async let status = try model.status()
+            
+            let (filesResult, statusResult) = try await (files, status)
+            self.status = statusResult
+            self.files = filesResult
           } catch {
             lastErrorMessage = error.localizedDescription
           }
           
+          
         }
-        
-        
       }
       .navigationDestination(isPresented: $isDisplayingDownload) {
         DownloadView(file: selected).environmentObject(model)
