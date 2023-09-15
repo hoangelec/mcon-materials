@@ -77,6 +77,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5C95707E2AAB25C20093DEF3 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 		9C22D31B26D6A0F200983935 /* BlabberTests */ = {
 			isa = PBXGroup;
 			children = (
@@ -137,6 +144,7 @@
 		9C6C0FD626BE532800DD99B3 /* Blabber */ = {
 			isa = PBXGroup;
 			children = (
+				5C95707E2AAB25C20093DEF3 /* Extensions */,
 				9CE044E626C29EAF00BDF5AF /* Model */,
 				9C4B37CB26C289B900300602 /* Assets */,
 				9C67694326D56FBD00502FA3 /* Views */,
